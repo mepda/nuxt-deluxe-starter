@@ -4,4 +4,6 @@
 
 The components directory contains your Vue.js Components.
 
+Generally, components have Pascal casing (i.e. MainComponent.vue).
+
 _Nuxt.js doesn't supercharge these components._

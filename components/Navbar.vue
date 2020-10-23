@@ -7,7 +7,7 @@
           id="Logo__image"
           width="75"
           height="25"
-          alt="Uninja Logo"
+          alt="Computer Code Symbol"
         />
       </nuxt-link>
       <nuxt-link to="/" id="logo_name">Zelas</nuxt-link>
@@ -25,7 +25,8 @@
         <span aria-hidden="true"></span>
       </a>
     </div>
-
+    <!-- When implementing bulmas JS requirement, you can bind to the 'is-active' 
+    class by toggling it when it's clicked-->
     <div
       id="navbarBasicExample"
       class="navbar-menu"
